@@ -1,6 +1,6 @@
 # Coursera_Capstone
  The Coursera Applied Data Science Capstone Project: The Battle of the Neighborhoods
- by: Diardano Raihan
+ <br>by: _Diardano Raihan_
  <hr>
 
 ## Case Study: The Battle of the Neighborhoods
