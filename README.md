@@ -3,7 +3,6 @@ The Coursera Applied Data Science Capstone Project
 <br>by: _Diardano Raihan_
 
 ## Project Summary
-<hr>
 
 __Goal__: 
 - To figure out the best locations for opening up a new coffee shop in Toronto City.
