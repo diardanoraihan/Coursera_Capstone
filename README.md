@@ -45,7 +45,7 @@ You can see the process in [Pre2_Coordinate_Retrieval.ipynb](https://github.com/
 ### 3.  Segment & Cluster Toronto Neighborhoods
 
 Objective:
-- Now, we will __explore__, __segment__, and __group neighborhoods__ into clusters to find similar neighborhoods in __Toronto City__. As far as this project is concerned, we will use the __Foursquare location dataset__ and use __Foursquare API__ to access it.
+- We will __explore__, __segment__, and __group neighborhoods__ into clusters to find similar neighborhoods in __Toronto City__. As far as this project is concerned, we will use the __Foursquare location dataset__ and use __Foursquare API__ to access it.
 
 You can see the process in [Pre3_Clustering_Neigborhoods_Toronto.ipynb](https://github.com/diardanoraihan/Coursera_Capstone/blob/main/Pre3_Clustering_Neigborhoods_Toronto.ipynb)
 
