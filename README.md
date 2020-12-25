@@ -1,6 +1,6 @@
 # The Battle of the Neighborhoods: Starting a Coffee Shop Business
 The Coursera Applied Data Science Capstone Project
-<br>by: _Diardano Raihan_
+<br>by: Diardano Raihan | [LinkedIn Profile](https://www.linkedin.com/in/diardanoraihan)
 
 ## Project Summary
 
@@ -60,5 +60,4 @@ You can see the process in [Project_Notebook.ipynb](https://github.com/diardanor
 Thank you,
 
 
-Diardano Raihan <br>
-[LinkedIn Profile](https://www.linkedin.com/in/diardanoraihan)
+Diardano Raihan
